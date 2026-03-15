@@ -1,0 +1,16 @@
+{
+  "name": "moyin-learns-backend",
+  "version": "1.0.0",
+  "description": "A turtorial for intro to backend",
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/MRMcyber/Moyinlearnsbackend.git)"
+  },
+  "license": "ISC",
+  "author": "Moyin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
